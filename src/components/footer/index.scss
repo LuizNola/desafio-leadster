@@ -1,0 +1,25 @@
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+    margin-top: 2rem;
+    padding: 3rem;
+
+    background-color: #FBFBFD;
+
+    color: #777777;
+
+    dd{
+        font-weight: 300;
+        margin: 1rem 0;
+        
+        a{
+            text-decoration: none;
+            color: #777777;
+        }
+    }
+
+
+}

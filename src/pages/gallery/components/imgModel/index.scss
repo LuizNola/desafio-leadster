@@ -1,0 +1,33 @@
+.imageContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    background-color: #fbfbfb;
+
+    border: 1px #000 solid;
+
+    max-width: 15rem;    
+    overflow-x: hidden;
+
+    img{
+        height: 10rem;
+    }
+
+    div{
+        display: flex;
+        justify-content: end;
+        background: linear-gradient(180deg, rgba(37, 157, 253, 0) 0%, rgba(37, 157, 253, 0.67) 98.96%);
+        width: 100%;
+
+        a{
+            text-decoration: none;
+
+            padding: 0.5rem;
+            border-radius: 10px;
+            background-color: #259DFD;
+        }
+        
+    }
+}

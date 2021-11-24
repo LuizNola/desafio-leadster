@@ -22,7 +22,11 @@ Esse projeto foi pensado como solução para o desafio de desenvolvedor front-en
 # Quais requisitos do desafio são atendidos?
 
 -HTML 5 (semantico)
+
 -Consumo da api [Pexels](https://www.pexels.com/api/documentation/#photos). Conforme a documentação 
+
 -Paginação (Feita com scroll-infinito pq fica mais estiloso 😎)
+
 -Contem cabeçalho e rodapé
+
 -Responsividade

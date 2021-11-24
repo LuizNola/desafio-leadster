@@ -12,8 +12,11 @@ Esse projeto foi pensado como solução para o desafio de desenvolvedor front-en
 # Tecs e libs utilizadas
 
 -ReactJs 
+
 -React-Router-Dom 
--react-lazy-load-image 
+
+-react-lazy-load-image
+
 -Pre-processador css (Sass) 
 
 # Quais requisitos do desafio são atendidos?
